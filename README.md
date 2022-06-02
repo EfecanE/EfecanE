@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EfecanE
 - 👀 I’m interested in Python, Back-end and Front-end
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS, Bootstrap
 - 📫 How to reach me G-mail => efecan25252525@gmail.com  Instagram => @efejanefe 
 
 <!---
