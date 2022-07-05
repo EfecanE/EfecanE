@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @EfecanE
-- 👀 I’m interested in Python, Back-end and Front-end
-- 🌱 I’m currently learning Python, HTML, CSS, Bootstrap
-- 📫 How to reach me G-mail => efecan25252525@gmail.com  Instagram => @efejanefe 
+# Hi, Welcome to my github page👋
+
+I'm Efecan Efe. Civil Engineer and life-time learner
+
+## Graduation
+---
+B.S in Civil Enginnering - ![Akdeniz University](https://www.akdeniz.edu.tr/)
+
+Contact me 📫
+---
+![Instagram](https://www.instagram.com/efejanefe/)
+![LinkedIn](https://www.linkedin.com/in/efecan-efe-a897a71a7/)
+![Gmail](mh.efecanefe@gmail.com)
 
 <!---
 EfecanE/EfecanE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
