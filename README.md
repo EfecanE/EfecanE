@@ -4,7 +4,7 @@ I'm Efecan Efe. Civil Engineer and life-time learner
 
 ## Graduation
 ---
-B.S in Civil Enginnering - ![Akdeniz University](https://www.akdeniz.edu.tr/)
+B.S in Civil Enginnering - *[Akdeniz University](https://www.akdeniz.edu.tr/)*
 
 Contact me 📫
 ---
