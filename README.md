@@ -1,7 +1,9 @@
 # Hi, Welcome to my github page👋
 
 I'm Efecan Efe. Junior Python Developer and Civil Engineer. 
-Trying to best developer.
+
+I work every day to get the title of best developer.
+
 ## Graduation
 ---
 B.S in Civil Enginnering - *[Akdeniz University](https://www.akdeniz.edu.tr/)*
