@@ -1,6 +1,6 @@
 # Hi, Welcome to my github page👋
 
-I'm Efecan Efe. Civil Engineer and Python Developer
+I'm Efecan Efe. Junior Python Developer and Civil Engineer. 
 
 ## Graduation
 ---
