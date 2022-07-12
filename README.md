@@ -1,6 +1,15 @@
 # Hi, Welcome to my github page👋
 
-I'm Efecan Efe. Junior Python Developer and Civil Engineer. 
+I'm Efecan Efe. Junior Backend Developer and Civil Engineer. 
+
+## Skills;
+
+* Django
+* Flask
+* MySQL, SQLite3
+* ORM
+* Linux
+* HTML, CSS, JS
 
 I work every day to get the title of best developer.
 
