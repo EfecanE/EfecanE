@@ -1,6 +1,6 @@
 # Hi, Welcome to my github page👋
 
-I'm Efecan Efe. Junior Backend Developer and Civil Engineer. 
+I'm Efecan Efe. 
 
 ## Skills;
 
@@ -9,7 +9,7 @@ I'm Efecan Efe. Junior Backend Developer and Civil Engineer.
 * MySQL, SQLite3
 * ORM
 * Linux
-* HTML, CSS, JS
+* HTML, CSS(Bootstrap,Tailwind), JS
 
 I work every day to get the title of best developer.
 
