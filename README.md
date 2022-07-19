@@ -9,7 +9,7 @@ I'm Efecan Efe.
 * MySQL, SQLite3
 * ORM
 * Linux
-* HTML, CSS(Bootstrap,Tailwind), JS
+* HTML5, CSS3(Bootstrap,Tailwind), JS
 
 I work every day to get the title of best developer.
 
