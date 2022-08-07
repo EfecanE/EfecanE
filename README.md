@@ -1,3 +1,5 @@
+# A passionate full-stack developer from Turkey
+
 # 💫 About Me:
 🔭 I’m currently working on my Skills<br><br>🌱 I’m currently learning React.js<br><br>💬 Ask me about Bootstrap, Responsive Web Design, ...<br><br>📫 How to reach me mh.efecanefe@gmail.com
 
@@ -15,7 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
