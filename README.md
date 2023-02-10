@@ -1,5 +1,5 @@
 # Hi, Im Efecan Efe.
-# A passionate full-stack developer from Turkey
+# Frontend Developer
 
 # 💫 About Me:
 🔭 I’m currently working on my Skills<br><br>🌱 I’m currently learning React.js<br><br>💬 Ask me about Bootstrap, Responsive Web Design, ...<br><br>📫 How to reach me mh.efecanefe@gmail.com
