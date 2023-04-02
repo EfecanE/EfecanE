@@ -2,7 +2,7 @@
 # Frontend Developer
 
 # 💫 About Me:
-🔭 I’m currently working on company<br><br>🌱 I’m currently learning GraphQL<br><br>💬 Ask me about React, Redux...<br><br>📫 How to reach me mh.efecanefe@gmail.com
+🔭 I’m currently working on E-adam Dijital<br><br>🌱 I’m currently learning GraphQL<br><br>💬 Ask me about React, Redux...<br><br>📫 How to reach me mh.efecanefe@gmail.com
 
 
 ## 🌐 Socials:
